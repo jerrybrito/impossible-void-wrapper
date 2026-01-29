@@ -1,0 +1,2 @@
+# Requires: anti-entropy
+# (Not available on PyPI)
